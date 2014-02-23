@@ -1,2 +1,2 @@
-= TikTok
-=== A bot for Campfire
+# TikTok
+### A bot for Campfire
