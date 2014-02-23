@@ -1,0 +1,13 @@
+subdomain: your_subdomain
+token: 'your token'
+rooms:
+  - List of rooms where the bot should join
+cogs:
+  - orly.rb
+  - achievement.rb
+  - like_a_boss.rb
+  - digdin.rb
+  - googleit.rb
+  - googleimg.rb
+  - hate_you.rb
+  - raffle.rb
